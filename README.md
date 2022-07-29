@@ -1,4 +1,7 @@
-# fresh project
+# Dabbling with fresh and trying web frameworks
+
+This repo calls the Washington Post Movie Critics API and displays the latest 20 recommendations.
+No use case at the moment, just for testing the possibilities and learning.
 
 ### Usage
 
